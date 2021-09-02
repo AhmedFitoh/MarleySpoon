@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  MarleySpoon
+
+  Created by AhmedFitoh on 9/1/21.
+  
+*/
+
+
+////////////////////- RecipeList -\\\\\\\\\\\\\\\\\\\\
+
+
+
+
+////////////////////- Network Errors -\\\\\\\\\\\\\\\\\\\\
+"NetworkError_NoInternetConnectionTitle" = "No Internet Connectivity";
+"NetworkError_NoInternetConnectionMessage" = "There is no Internet connection.\n\nPlease check your connection and try again.";
+
+"NetworkError_RequestFailureMessage" = "Couldn't process your request.\nPlease try again.";
+
+////////////////////- Common -\\\\\\\\\\\\\\\\\\\\
+"Common_Ok" = "OK";
